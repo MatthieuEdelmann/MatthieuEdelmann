@@ -24,3 +24,5 @@
 </details>
 
 
+[linkedin]: https://www.linkedin.com/in/matthieu-edelmann-820261198?originalSubdomain=fr
+
