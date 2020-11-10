@@ -1,4 +1,4 @@
-### - 🏮 "Hello World", i'm currently pursuing a Masters degree in "Geometric and Computer graphics".
+### - 🏮 Hello World, i'm currently pursuing a Masters degree in "Geometric and Computer graphics".
 
 ### Connect with me:
 
