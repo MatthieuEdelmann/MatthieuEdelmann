@@ -1,6 +1,4 @@
-### "Hello World"
-
-## - 🌱 I’m currently in Master 1 Geometric and Computer graphics
+### - 🌱 "Hello World" I’m currently in Master 1 Geometric and Computer graphics
 
 ### Connect with me:
 
