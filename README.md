@@ -4,8 +4,6 @@
 
 [<img align="left" alt="LinkedIn | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-
-
 ---
 
 ### Languages and Tools:
