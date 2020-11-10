@@ -1,4 +1,4 @@
-### - 🌱 "Hello World" I’m currently in Master 1 Geometric and Computer graphics
+### - 🏮 "Hello World" I’m currently in Master 1 Geometric and Computer graphics
 
 ### Connect with me:
 
@@ -17,7 +17,6 @@
 <img align="left" alt="cplusplus" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/cplusplus.svg" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/java.svg" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/python.svg" />
-<br />
 <img align="left" alt="tensorflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/tensorflow.svg" />
 <img align="left" alt="maven" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/apachemaven.svg" />
 
