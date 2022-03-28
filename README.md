@@ -17,8 +17,8 @@
 <img align="left" alt="cplusplus" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/cplusplus.svg" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/java.svg" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/python.svg" />
-//<img align="left" alt="tensorflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/tensorflow.svg" />
-//<img align="left" alt="maven" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/apachemaven.svg" />
+[//]: # "<img align="left" alt="tensorflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/tensorflow.svg" />"
+[//]: # "<img align="left" alt="maven" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/apachemaven.svg" />"
 
 
 
